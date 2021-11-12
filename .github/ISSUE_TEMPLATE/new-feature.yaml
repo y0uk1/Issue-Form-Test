@@ -1,11 +1,11 @@
-name: 📒Feature request
+name: ��Feature request
 description: File a feature request
-title: "[New Freature]: "
+title: "[New Feature]: "
 labels: ["enhancement"]
 body:
 - type: textarea
   attributes:
-    label: Feature Reauest
+    label: Feature Request
     description: 欲しい機能はなに？
     placeholder: Tell us what you want!
   validations:
